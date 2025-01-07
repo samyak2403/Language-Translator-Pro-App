@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.arrowwould.workout.languagetranslatorproapp"
-    compileSdk = 34
+    namespace = "com.arrowwould.languagetranslatorproapp"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.arrowwould.workout.languagetranslatorproapp"
+        applicationId = "com.arrowwould.languagetranslatorproapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
